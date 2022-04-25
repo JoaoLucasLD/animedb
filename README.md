@@ -1,4 +1,4 @@
-# buscador_de_gifs
+# animedb
 
 A new Flutter project.
 
